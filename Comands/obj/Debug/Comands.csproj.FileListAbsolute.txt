@@ -1,6 +1,0 @@
-C:\Users\Armand\Desktop\proj\Labs\#1\Lab_1\Comands\bin\Debug\Comands.dll
-C:\Users\Armand\Desktop\proj\Labs\#1\Lab_1\Comands\bin\Debug\Comands.pdb
-C:\Users\Armand\Desktop\proj\Labs\#1\Lab_1\Comands\obj\Debug\Comands.csprojResolveAssemblyReference.cache
-C:\Users\Armand\Desktop\proj\Labs\#1\Lab_1\Comands\obj\Debug\Comands.csproj.CoreCompileInputs.cache
-C:\Users\Armand\Desktop\proj\Labs\#1\Lab_1\Comands\obj\Debug\Comands.dll
-C:\Users\Armand\Desktop\proj\Labs\#1\Lab_1\Comands\obj\Debug\Comands.pdb
