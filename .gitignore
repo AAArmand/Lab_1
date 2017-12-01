@@ -1,6 +1,7 @@
-Lab_1/bin/
-Lab_1/obj/
-CommandsData/bin
-CommandsData/obj
-Commands/bin
-Commands/obj
+Lab_1/bin/ 
+Lab_1/obj/ 
+CommandsData/bin/
+CommandsData/obj/
+Commands/bin/
+Commands/obj/
+.vs/
